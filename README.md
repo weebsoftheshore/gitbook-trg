@@ -12,6 +12,10 @@ These links can be found at the bottom of each page while browsing this document
 {% endhint %}
 
 \
+8/18/25
+
+* Reorganized and expanded section on [In-game Notation.](tournament-mechanics/in-game-notation.md) Additional support and guidance has been explored in the context of revealed information.
+
 \
 7/17/25
 
