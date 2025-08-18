@@ -11,6 +11,8 @@ IMPORTANT LINKS:
 These links can be found at the bottom of each page while browsing this document under "additional resources.
 {% endhint %}
 
+If you would like to see the exact changes to any version of the rulebook, please check the gitbook commit history [here](https://github.com/weebsoftheshore/gitbook-trg/commits/main/).
+
 \
 8/18/25
 
