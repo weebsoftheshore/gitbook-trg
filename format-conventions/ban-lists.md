@@ -13,4 +13,6 @@ Standard Constructed (All variants including Online and team Standard. Limited f
 * Icebound Slam
 * Sword of Avarice
 * Reckless Conversion
+* Lost in Thought
+* Dissonant Fractal
 

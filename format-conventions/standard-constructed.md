@@ -51,6 +51,14 @@ _Abyssal Heaven 1st Edition_
 
 _Re:Collection Diao Chan and Guo Jia Decks_
 
+_Supporter Pack 3_
+
+_Distorted Reflections 1st Edition_
+
+_Ciel, Mirage's Grave Starter Deck_
+
+_Diana, Moonpiercer Starter Deck_
+
 \
 Any cards with the same name as a card printing for the listed sets is legal for tournament play; the exact printing does not have to match those printed in the above products. Additionally, [Proxia’s Vault ](https://index.gatcg.com/cards?prefix=PRXY)provides cards legal for proxied tournament use.
 

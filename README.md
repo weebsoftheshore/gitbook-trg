@@ -11,9 +11,24 @@ IMPORTANT LINKS:
 These links can be found at the bottom of each page while browsing this document under "additional resources.
 {% endhint %}
 
+[Link to printable version](https://trg.gatcg.com/~gitbook/pdf?limit=150)\
+\
 If you would like to see the exact changes to any version of the rulebook, please check the gitbook commit history [here](https://github.com/weebsoftheshore/gitbook-trg/commits/main/).
 
-\
+
+
+9/11/25
+
+*   Expanded upon Player Communication chapter, adding in section [Prize Splits](player-communication/prize-splits.md) and [Judge Calls](player-communication/judge-calls.md), as well as Media Coverage with [Stream Judging](media-coverage/stream-judging.md).
+
+    * Prize Split discussions are now explicitly not to be public. This is mostly to avoid situations where players may inadvertently use language that may suggest bribery or collusion without the intent of doing so (where it otherwise would be permissible). Matches are always expected to only result from either victory or concession (achieved in-game), or an intentional draw. The result can't be decided any other way.
+    * Judge Calls has been expanded to give a more detailed view of how players are expected to handle judge calls and pitfalls to avoid during judge calls. It is our hope that these guidelines can curb either unwarranted or unintentional misuse of the judging system.
+    * Slightly more depth given to expectations regarding Stream Judging. For judge-specific information, more detail is always available in the official [Judge Handbook](https://jh.gatcg.com/).
+
+
+
+
+
 8/18/25
 
 * Reorganized and expanded section on [In-game Notation.](tournament-mechanics/in-game-notation.md) Additional support and guidance has been explored in the context of revealed information.
