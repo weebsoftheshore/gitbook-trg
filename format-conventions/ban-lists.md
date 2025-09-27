@@ -4,7 +4,7 @@ This page will contain all lists of cards banned across the various formats:
 
 
 
-Standard Constructed (All variants including Online and team Standard. Limited formats are excluded)
+Standard Constructed (All variants, including Online and team Standard. Limited formats are excluded)
 
 * Baby Gray Slime
 * Corhazi Outlook
@@ -15,4 +15,9 @@ Standard Constructed (All variants including Online and team Standard. Limited f
 * Reckless Conversion
 * Lost in Thought
 * Dissonant Fractal
+* Rile the Abyss
+
+
+
+Consult the [Index](https://index.gatcg.com) to see any specific ban or restricted information for any card.
 

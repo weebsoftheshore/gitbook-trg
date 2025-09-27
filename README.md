@@ -17,6 +17,11 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
+9/26/25
+
+* Correctly updated ban list to include Rile the Abyss, as discussed in prior B\&R article.\
+
+
 9/11/25
 
 *   Expanded upon Player Communication chapter, adding in section [Prize Splits](player-communication/prize-splits.md) and [Judge Calls](player-communication/judge-calls.md), as well as Media Coverage with [Stream Judging](media-coverage/stream-judging.md).
