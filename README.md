@@ -13,14 +13,21 @@ These links can be found at the bottom of each page while browsing this document
 
 [Link to printable version](https://trg.gatcg.com/~gitbook/pdf?limit=150)\
 \
-If you would like to see the exact changes to any version of the rulebook, please check the gitbook commit history [here](https://github.com/weebsoftheshore/gitbook-trg/commits/main/).
+If you would like to see the exact changes to any version of the rulebook, please check the GitBook commit history [here](https://github.com/weebsoftheshore/gitbook-trg/commits/main/).
+
+
+
+12/4/25
+
+* Updated legal products list, changed naming conventions of product on the list to shorten (does not change product legality; all legality rules are available on the Index, link at the top).
+  * Phantom Monarchs and related products will become legal on December 5th (tomorrow) for tournament play for the official release.
+* Additional commentary for [Stream Judging](media-coverage/stream-judging.md)
 
 
 
 9/26/25
 
-* Correctly updated ban list to include Rile the Abyss, as discussed in prior B\&R article.\
-
+* Correctly updated ban list to include Rile the Abyss, as discussed in prior B\&R article.<br>
 
 9/11/25
 

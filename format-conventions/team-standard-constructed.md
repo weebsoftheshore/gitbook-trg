@@ -27,49 +27,45 @@ Players may communicate with the closest teammate(s) in their seating arrangemen
 \
 The current Team Standard Constructed allows cards from the following sets and/or products:
 
-_Dawn of Ashes 1st Edition_
+_Dawn of Ashes_
 
-_Dawn of Ashes Prelude Starter Kit_
+_Dawn of Ashes Starter Decks and Prelude Starter Kit_
 
-_Dawn of Ashes Alter Edition_
+_Fractured Crown and Fractured Crown: Armaments_
 
-_Dawn of Ashes Starter Decks_
-
-_Fractured Crown_
-
-_Supporter Pack 1_
+_Supporter Packs 1, 2, 3_
 
 _Alchemical Revolution_
 
 _Alchemical Revolution Starter Decks_
 
-_Alchemical Revolution Alter Edition_
-
 _LGS Demo 2022/2023_
 
 _Mercurial Heart_
 
-_Mercural Heart Alter Edition_
+_Re:Collections, Shadowdancer and Slime Sovereign_
 
-_Re:Collection Silvie and Tristan Decks_
-
-_Supporter Pack 2_
-
-_Mortal Ambition 1st Edition_
+_Mortal Ambition_
 
 _Mortal Ambition Starter Decks_
 
-_Abyssal Heaven 1st Edition_
+_Abyssal Heaven_
 
-_Re:Collection Diao Chan and Guo Jia Decks_
+_Re:Collections Heaven's Favored and Idyll Corsage_
 
-_Supporter Pack 3_
+_Distorted Reflections_
 
-_Distorted Reflections 1st Edition_
+_Distorted Reflection Starter Decks_
 
-_Ciel, Mirage's Grave Starter Deck_
+_Promotional 2022, 2023, 2024, 2025_
 
-_Diana, Moonpiercer Starter Deck_
+_Phantom Monarchs_
+
+_Phantom Monarchs EVP_
+
+_Phantom Monarchs: Looking Glass Sighs_
+
+_Re:Collection Brilliant Vestige_
 
 \
 Any cards with the same name as a card printing for the listed sets are legal for tournament play; the exact printing does not have to match the above products. Additionally, [Proxia’s Vault](https://index.gatcg.com/cards?prefix=PRXY) provides cards legal for proxied tournament use.

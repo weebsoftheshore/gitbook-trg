@@ -13,53 +13,51 @@ Main decks must have a minimum of 60 cards with no more than four copies of any 
 Players can access their sideboard and move cards between it and their main or material decks between games before both players are ready to present their shuffled decks and before any starting hands have been drawn.
 
 \
-The current standard constructed allows cards from the following sets and/or products:
+The current standard constructed allows cards from the following sets and/or products, with set name legality extending to any editions of that set unless otherwise noted:
 
-_Dawn of Ashes 1st Edition_
+_Dawn of Ashes_
 
-_Dawn of Ashes Prelude Starter Kit_
+_Dawn of Ashes Starter Decks and Prelude Starter Kit_
 
-_Dawn of Ashes Alter Edition_
+_Fractured Crown and Fractured Crown: Armaments_
 
-_Dawn of Ashes Starter Decks_
-
-_Fractured Crown_
-
-_Supporter Pack 1_
+_Supporter Packs 1, 2, 3_
 
 _Alchemical Revolution_
 
 _Alchemical Revolution Starter Decks_
 
-_Alchemical Revolution Alter Edition_
-
 _LGS Demo 2022/2023_
 
 _Mercurial Heart_
 
-_Mercural Heart Alter Edition_
+_Re:Collections, Shadowdancer and Slime Sovereign_
 
-_Re:Collection Silvie and Tristan Decks_
-
-_Supporter Pack 2_
-
-_Mortal Ambition 1st Edition_
+_Mortal Ambition_
 
 _Mortal Ambition Starter Decks_
 
-_Abyssal Heaven 1st Edition_
+_Abyssal Heaven_
 
-_Re:Collection Diao Chan and Guo Jia Decks_
+_Re:Collections Heaven's Favored and Idyll Corsage_
 
-_Supporter Pack 3_
+_Distorted Reflections_
 
-_Distorted Reflections 1st Edition_
+_Distorted Reflection Starter Decks_
 
-_Ciel, Mirage's Grave Starter Deck_
+_Promotional 2022, 2023, 2024, 2025_
 
-_Diana, Moonpiercer Starter Deck_
+_Phantom Monarchs_
+
+_Phantom Monarchs EVP_
+
+_Phantom Monarchs: Looking Glass Sighs_
+
+_Re:Collection Brilliant Vestige_
+
+
 
 \
-Any cards with the same name as a card printing for the listed sets is legal for tournament play; the exact printing does not have to match those printed in the above products. Additionally, [Proxia’s Vault ](https://index.gatcg.com/cards?prefix=PRXY)provides cards legal for proxied tournament use.
+Any cards with the same name as a card printed for the listed sets is legal for tournament play; the exact printing does not have to match those printed in the above products. Additionally, [Proxia’s Vault ](https://index.gatcg.com/cards?prefix=PRXY)provides cards legal for proxied tournament use.
 
-\
+<br>
