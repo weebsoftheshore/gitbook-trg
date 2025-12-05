@@ -22,6 +22,7 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 * Updated legal products list, changed naming conventions of product on the list to shorten (does not change product legality; all legality rules are available on the Index, link at the top).
   * Phantom Monarchs and related products will become legal on December 5th (tomorrow) for tournament play for the official release.
 * Additional commentary for [Stream Judging](media-coverage/stream-judging.md)
+* Addendum 12/5/25 - Added brief section on [Bans](card-legality/bans.md)
 
 
 

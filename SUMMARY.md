@@ -66,5 +66,6 @@
   * [Substitutions and Proxies](card-legality/substitutions-and-proxies/README.md)
     * [Proxia's Vault](card-legality/substitutions-and-proxies/proxias-vault.md)
   * [Card and Sleeve Markings](card-legality/card-and-sleeve-markings.md)
+  * [Bans](card-legality/bans.md)
 * [Media Coverage](media-coverage/README.md)
   * [Stream Judging](media-coverage/stream-judging.md)
