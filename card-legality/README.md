@@ -24,8 +24,8 @@ Items permissible for artistic obstruction/alteration:
 * Art box
 * Any/all of the rules text box.
 
-Additionally, the artistic content of alters cannot depict obscene or offensive elements. Artistic content should also not make the card unrecognizable Again, judges may determine if a given card is permissible and any rejections can be appealed to the Head Judge.
+Additionally, the artistic content of alters cannot depict obscene or offensive elements. Artistic content should also not make the card unrecognizable. Again, judges may determine if a given card is permissible, and any rejections can be appealed to the Head Judge.
 
 {% hint style="info" %}
-E.g., A Rai, Spellcrafter altered such that a giant, fluffy bunny is depicted might not be permissible; however, art depicting Rai dressed as a giant, fluffy bunny may.
+E.g., A Rai, Spellcrafter, altered such that a giant, fluffy bunny is depicted might not be permissible; however, art depicting Rai dressed as a giant, fluffy bunny may.
 {% endhint %}
