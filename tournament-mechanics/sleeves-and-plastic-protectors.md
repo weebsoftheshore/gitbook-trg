@@ -8,4 +8,6 @@ Judges reserve the authority to disallow the use of sleeves if the sleeves are d
 
 Significantly disruptive designs that produce intense reflections or other significant visual effects are not allowed. Tournament organizers and judges reserve the right to disallow the use of any sleeves deemed inappropriate or disruptive to the venue or the gameplay.
 
-\
+**Variable Regulation:** Any events at a higher circuit than Store Championships (such as Regionals, Nationals, Ascents, etc.), having sleeved decks is **mandatory**. Transparent/clear sleeves will not be allowed in this case. Players are not allowed to play with unsleeved decks; they should be asked to procure legal sleeves and sleeve their deck.
+
+<br>

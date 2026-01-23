@@ -17,6 +17,13 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
+1/22/25
+
+* Addendum to Sleeves and Plastic Protectors section for the context of events of higher tiers than Store Championships. Players will be required to use sleeves for their decks in these tournaments. Simultaneously, we are disallowing clear/transparent sleeves for these tournaments.   This will be effective for enforcement on 1/26/26. Rationale for further context below:
+  * Unsleeved cards are too easily marked/damaged/frayed from regular and extensive play during a tournament, thereby making them marked and prone to frequent inspection/replacement. Clear sleeves double the efforts for deck checks since it adds the step of inspecting card backs for markings. For the sake of tournament promptness and fairness, we are making the above requirements for premier play. Store Championships and Local events are not bound to this requirement to maintain the barrier of entry for new players and community participation.
+
+
+
 12/4/25
 
 * Updated legal products list, changed naming conventions of product on the list to shorten (does not change product legality; all legality rules are available on the Index, link at the top).
