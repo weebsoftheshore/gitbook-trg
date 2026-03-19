@@ -17,7 +17,14 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
-1/22/25
+3/18/26
+
+* Added policy guidelines regarding use of personal audio equipment (such as earbuds and headphones) in the scope of Outside Assistance under [Use of Electronic Devices](tournament-mechanics/use-of-electronic-devices.md)
+* Expanded rules for allowed [intentional draws](tournament-mechanics/intentional-draws-and-concessions.md) (IDs) for stuck/stalemate/looping/locked games. This policy sits in line with our philosophy on allowable IDs and to not allow draws to be abused to circumvent fair play.
+
+
+
+1/22/26
 
 * Addendum to Sleeves and Plastic Protectors section for the context of events of higher tiers than Store Championships. Players will be required to use sleeves for their decks in these tournaments. Simultaneously, we are disallowing clear/transparent sleeves for these tournaments.   This will be effective for enforcement on 1/26/26. Rationale for further context below:
   * Unsleeved cards are too easily marked/damaged/frayed from regular and extensive play during a tournament, thereby making them marked and prone to frequent inspection/replacement. Clear sleeves double the efforts for deck checks since it adds the step of inspecting card backs for markings. For the sake of tournament promptness and fairness, we are making the above requirements for premier play. Store Championships and Local events are not bound to this requirement to maintain the barrier of entry for new players and community participation.
