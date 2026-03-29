@@ -12,4 +12,4 @@ Players will be able to exchange cards from their sideboard with cards in their 
 
 [See how to organize a draft.](../tournament-proceedings/limited-tournaments.md)
 
-\
+<br>

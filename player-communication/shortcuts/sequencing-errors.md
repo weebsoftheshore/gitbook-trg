@@ -11,4 +11,4 @@ Common sequencing error examples:
 
 Players are expected to follow through on execution of the intended action, correcting the sequencing in the process. Only if the intended sequence is illegal can the actions be taken back and the game state reverted to the time before the sequence was tried.
 
-\
+<br>

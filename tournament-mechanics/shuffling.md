@@ -6,4 +6,4 @@ For deck shuffling in tournaments, acceptable forms of shuffling are riffle shuf
 
 Pile shuffling, overhand shuffling, etc are not allowed as methods to generate a sufficiently randomized deck. If players would like to use pile shuffling as a method to ensure a proper card count, this is permissible provided it is followed by a valid shuffling method as detailed above.
 
-\
+<br>

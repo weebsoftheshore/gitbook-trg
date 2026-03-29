@@ -8,4 +8,4 @@ Regarding the use of “Generated” cards, players must provide tournament-lega
 
 Players should also be able to represent or designate any summoned objects in a clear manner throughout the game.
 
-\
+<br>

@@ -4,4 +4,4 @@ Players should be explicit as to what a die represents and what value is being p
 
 When counters (which may be dice) are used, players should be explicit as to what the counter is being used to represent and should be clear if the use of the counter is being modified or changed to reflect a different value or metric. Each counter can only be used to reflect a single value or metric and cannot be used to represent multiple values simultaneously.
 
-\
+<br>

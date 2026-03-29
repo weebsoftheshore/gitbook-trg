@@ -32,4 +32,4 @@ No specific distribution or frequency of card rarity is guaranteed in a single p
 
 
 
-\
+<br>

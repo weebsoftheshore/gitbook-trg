@@ -6,4 +6,4 @@ Players dropping from a limited format tournament owns all cards they correctly 
 
 Players may not drop from a tournament in exchange for or influenced by the offer of any reward or incentive.
 
-\
+<br>

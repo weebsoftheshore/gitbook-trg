@@ -9,4 +9,4 @@ Once a game ends, players in the game proceed through the following steps:
 
 At the end of a game, any face-down cards in public zones must be turned face-up and revealed to all players before cards are collected for sideboarding and reshuffling.
 
-\
+<br>

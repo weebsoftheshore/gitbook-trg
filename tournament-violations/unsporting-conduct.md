@@ -16,4 +16,4 @@ Other examples of unsporting conduct:
 \
 It is understandable that some tournament settings cause a rise in competitive spirit among players and that disagreements are prone to happen in the course of the game, whether due to different interpretations of rules or as expressed discontent towards a certain game, situation, or result. Players may still discuss these topics civilly with each other and may always ask for a judge to mediate or assist in these interactions. If this behavior breaches the level of civility or respect that is expected and asked, it can be considered unsporting conduct.
 
-\
+<br>

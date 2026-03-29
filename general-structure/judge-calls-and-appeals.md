@@ -8,4 +8,4 @@ Any role participating in a tournament may call for a judge with a question. In 
 
 In tournaments where there are both appointed Head and Floor judges present, Floor Judges should be the first ones to respond to a judge call. Players cannot request a specific or different judge to attend a judge call and this applies to both the initial call and any appeals in which a Head Judge is involved. Before any penalties are applied from a decision made by the attending judge, the ruling may be appealed. A Head Judge will attend to the call, ask any other investigational questions they feel are warranted, and then will issue a final ruling. If a Head Judge is the first attending judge to a call and their ruling is appealed, they must consult with at least two other judges before issuing a final ruling can be made.
 
-\
+<br>

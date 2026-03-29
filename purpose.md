@@ -6,4 +6,4 @@ Following the regulations advised within this document will ensure fair tourname
 
 While this document may be modified, changed, or updated without formal or prior notice, we (Weebs of the Shore) will do our best to communicate any impactful changes to this document. Releases of new products or sets containing new mechanics or cards that need expansion of the comprehensive rules or tournament regulations will always be accompanied by updates to the Comprehensive Rules and possibly this document as needed.
 
-\
+<br>

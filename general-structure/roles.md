@@ -39,7 +39,6 @@ Players are encouraged to register for an [Omnidex account](https://omni.gatcg.c
 #### Spectators
 
 Any person present at the venue or physical place where a tournament takes place that is not a player or a tournament official is considered a spectator. Spectators must provide a safe and respectful environment for all players and officials in a tournament. They may observe for and report suspected policy or rule infractions to tournament officials. Players reserve the right to ask spectators to respect their space and not spectate them; spectators must respect these requests. Spectators may not offer any assistance to players in the game.\
-\
+<br>
 
-
-\
+<br>

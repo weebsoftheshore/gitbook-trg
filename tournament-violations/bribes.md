@@ -8,4 +8,4 @@ If there is suspicion that tournament results are being fabricated due to underl
 
 While players can use match wins, scores, or standings of other players to inform their own decisions as to whether to drop or attempt to intentionally draw with their round opponent, they cannot do so as a form of agreement with other players in other matches or pairings. If this is done via forms of agreement, it can be interpreted as bribery.
 
-\
+<br>

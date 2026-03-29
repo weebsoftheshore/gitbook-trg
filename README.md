@@ -17,6 +17,14 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
+3/28/26
+
+* Updated product legality and added Pantheon-specific banlist section in anticipation of Radiant Origins release. Reminder that Radiant Origins will be officially legal only on launch. Any cards obtained prior to launch may not be used in tournaments before the launch date.
+* Expanded [Start of Game Procedures](tournament-mechanics/start-of-game-procedures.md) for Pantheon-specific rules. Correctly modified Start of Game Procedures to reflect entry of Lv 0 Champions.
+* Added placeholder section for Pantheon ban list (there are no cards there right now). But please check your format-specific ban list before entering the fray!
+
+
+
 3/18/26
 
 * Added policy guidelines regarding use of personal audio equipment (such as earbuds and headphones) in the scope of Outside Assistance under [Use of Electronic Devices](tournament-mechanics/use-of-electronic-devices.md)

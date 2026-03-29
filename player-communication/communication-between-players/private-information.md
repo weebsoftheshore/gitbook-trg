@@ -4,4 +4,4 @@ Private information is any information that players can only access from their p
 
 Players have the liberty to discuss any private information known to them to any other players in a game, they may not explicitly reveal this information publicly unless instructed to by an effect.
 
-\
+<br>

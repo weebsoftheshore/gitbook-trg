@@ -26,7 +26,6 @@ It is the current turn player's responsibility to dictate the current phase in t
 
 Any card orientations must be represented in 90 degree increments, either placed upright (at 90 degrees) or turned horizontally (at 0 or 180 degrees). Orientation should be maintained in a clear manner and ambiguity should be avoided. If the orientation of a card is ambiguous, players should clarify card orientations before proceeding in the game.
 
-\
+<br>
 
-
-\
+<br>

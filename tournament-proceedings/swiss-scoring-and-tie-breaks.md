@@ -6,4 +6,4 @@ A player’s opponents’ match-win percentage is the percent average of matches
 
 If 3rd party software is used for generating, tournament pairings and standings, these parameters should be adjusted when setting up the tournament, if possible. Manual scoring is not recommended, however, if there is an absolute necessity for extraordinary circumstances, it may be permissible. If manual scoring is used, please refer to the Median-Bucholz-System for determining tie-breaks (See [this Wiki article](https://en.wikipedia.org/wiki/Tie-breaking_in_Swiss-system_tournaments), ignoring Modified and Solkoff variants).
 
-\
+<br>

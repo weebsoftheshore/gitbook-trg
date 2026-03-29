@@ -16,4 +16,4 @@ E.g., In a match starting with a record of 1-0 for Player A before the first gam
 
 Sideboarding is considered concluded after both players have presented a sufficiently shuffled deck to their opponent for final shuffle/cut). Players may not continue sideboarding or change their sideboarding decisions after a shuffled deck is presented an opponent.
 
-\
+<br>

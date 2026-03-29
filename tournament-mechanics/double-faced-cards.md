@@ -1,7 +1,6 @@
 # Double-Faced Cards
 
-With the launch of Abyssal Heaven, Grand Archive introduced "double-faced cards" to the game. These cards will have specific rules that players must follow if their decks contain any number of these cards in any of the decks. Sideboards may be excluded from the following requirements.\
-
+With the launch of Abyssal Heaven, Grand Archive introduced "double-faced cards" to the game. These cards will have specific rules that players must follow if their decks contain any number of these cards in any of the decks. Sideboards may be excluded from the following requirements.<br>
 
 1. Players that use double-faced cards in a tournament setting are obligated to use them in a fully sleeved deck. This will require players to follow any guidelines related to [Sleeves and Plastic Protectors](sleeves-and-plastic-protectors.md). While clear sleeves would be permissible for regular (i.e. non-double-faced cards), this is not true for double-faced cards. Specifically, sleeves used must be completely opaque. This is defined as: No part, characteristic, or element can be seen, identified, or suspected of being part of a double-faced card from examining the card from the opaque side of the sleeve. This means that, even is a double-faced card is only mostly obstructed but is transparent enough to differentiate that it is a double-faced card of some kind rather than having a standard Grand Archive card back (with the Grand Archive logo) then it is not allowed for tournament use if that card is in the Main or Material decks.
 

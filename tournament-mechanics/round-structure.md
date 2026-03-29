@@ -17,4 +17,4 @@ Timed rounds ensure that tournaments proceed smoothly and in a timely manner. Ti
 
 The timer for a round should begin once pairings for a round are posted and ample time has been given to give player the opportunity to view pairings and arrive to their table or find their paired opponent. Players may [start games in their matches](https://app.gitbook.com/o/0MlTUOWvMXaO5YCm6PX3/s/hLlaY1UVod5gsUyq3Iq5/tournament-mechanics/start-of-game-procedures) once the round timer has been started.
 
-\
+<br>

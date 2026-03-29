@@ -6,4 +6,4 @@ Players may ask judges to issue them proxies if they feel there is a compelling 
 
 Judges may use an inconsequential Grand Archive card (such as a Spirit of Fire or Spirit of Wind) and mark over the card using a permanent marker or pen to indicate the name/cost/element of the intended card being proxied.
 
-\
+<br>

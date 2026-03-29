@@ -48,6 +48,7 @@
 * [Format Conventions](format-conventions/README.md)
   * [Standard Constructed](format-conventions/standard-constructed.md)
   * [Team Standard Constructed](format-conventions/team-standard-constructed.md)
+  * [Pantheon](format-conventions/pantheon.md)
   * [Limited Formats](format-conventions/limited-formats.md)
   * [Online (Webcam) Formats](format-conventions/online-webcam-formats.md)
   * [Tournament Byes](format-conventions/tournament-byes.md)

@@ -10,8 +10,7 @@ A minimum of 8 players is recommended to run a tournament for Grand Archive. It 
 
 In the case of Swiss pairing tournaments, the number of rounds is based on players and can be calculated via rounding up of log2(N) where N is the number of players registered for the tournament. (Generally, tournament software is capable of calculating the necessary number of rounds.) In this manner, a table such as the following can be generated giving recommended rounds based on players:
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/RoundTable (1).PNG" alt=""><figcaption><p>Example Table of Attending Players and Tournament Rounds</p></figcaption></figure>
 
@@ -19,4 +18,4 @@ Thus, a tournament will always have at least 3 rounds. Rounds should be determin
 
 For 5-8 players, tournaments may be Swiss or single-elimination. For 9-16 players, 4 rounds are recommended for limited format tournaments with a cut to the top 8, otherwise, 5 rounds of Swiss pairings should be played with a cut to the top 4, instead. For 17+ player tournaments, the above table and formula can be reliable for rounds, and cuts to the top 8 are recommended.
 
-\
+<br>
