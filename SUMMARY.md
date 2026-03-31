@@ -27,6 +27,7 @@
   * [Double-Faced Cards](tournament-mechanics/double-faced-cards.md)
   * [Player Equipment](tournament-mechanics/player-equipment.md)
   * [Deck Checks](tournament-mechanics/deck-checks.md)
+  * [Hygiene and Health Standards](tournament-mechanics/hygiene-and-health-standards.md)
 * [Player Communication](player-communication/README.md)
   * [Communication Between Players](player-communication/communication-between-players/README.md)
     * [Status Information](player-communication/communication-between-players/status-information.md)

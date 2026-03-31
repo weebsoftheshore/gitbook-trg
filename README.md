@@ -17,6 +17,12 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
+3/31/26
+
+* Added policy guidelines on [hygiene & health](tournament-mechanics/hygiene-and-health-standards.md) standards for attendees of Grand Archive events. These guidelines apply to staff, players, and other attendees equally. Please review and ensure that you are complying with these guidelines before arriving at an event.
+
+
+
 3/28/26
 
 * Updated product legality and added Pantheon-specific banlist section in anticipation of Radiant Origins release. Reminder that Radiant Origins will be officially legal only on launch. Any cards obtained prior to launch may not be used in tournaments before the launch date.
