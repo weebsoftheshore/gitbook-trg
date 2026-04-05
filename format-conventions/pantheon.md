@@ -3,7 +3,7 @@
 For Pantheon events, each player should provide their own main deck, material deck, and boons for the event.
 
 \
-Main decks must be exactly 60 cards with no more than one copyof any card.&#x20;
+Main decks must be, at minimum, 60 cards with no more than one copy of any card.&#x20;
 
 Material decks must have exactly 12 cards with at least one Lv 0 champion, and cannot contain more than one copy of any one card.
 
