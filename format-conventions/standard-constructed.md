@@ -55,9 +55,15 @@ _Phantom Monarchs: Looking Glass Sighs_
 
 _Re:Collection Brilliant Vestige_
 
+_Radiant Origins_
+
+_Radiant Origins EVP_
+
+_Re:Collection Aurelian Regent_
+
 
 
 \
 Any cards with the same name as a card printed for the listed sets is legal for tournament play; the exact printing does not have to match those printed in the above products. Additionally, [Proxia’s Vault ](https://index.gatcg.com/cards?prefix=PRXY)provides cards legal for proxied tournament use.
 
-<br>
+Note: Pantheon-specific cards found in any above products are not legal for Standard Constructed<br>

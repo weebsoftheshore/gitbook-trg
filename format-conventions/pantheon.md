@@ -58,7 +58,13 @@ _Re:Collection Brilliant Vestige_
 
 _Radiant Origins_
 
-_Radiant Origins Starter Decks_
+_Radiant Origins EVP_
+
+_Radiant Origins Pantheon Decks_
+
+_Re:Collection Aurelian Regent_
+
+_Pantheon Pack 1_
 
 
 

@@ -16,6 +16,10 @@ E.g. Player A and player B in a team cannot simultaneously use Spirit of Fire an
 
 In this format, games are played in a setting of three simultaneous matches between players A, B, and C from one team against corresponding players from another team. Seating arrangements will consistently be A-B-C and each player will only play against the other team's matching player in seating order. A plays A, B plays B, etc. Only one game is played per paired player and each game win awards a team a point. The winner of a match in Team Standard constructed is the team with the most points after the three games conclude. A win is worth 3 points, a loss is worth 0 points, and a draw is worth 1 point.
 
+* When Team tournaments are played, the higher-seeded top cut follows a modified structure for choosing which player in each pair plays the match. Starting with the higher seed team, they will select one of their player's matches and select the first turn player. Then, the lower seed team will pick from the remaining two player pairs and select the first turn player for those pairs. Last, the higher seed will pick the turn player for the last pair of players.
+
+
+
 Teams must decide and declare their seating arrangement before the tournament begins. This seating arrangement will be kept constant for the entire tournament.&#x20;
 
 {% hint style="info" %}
@@ -67,5 +71,13 @@ _Phantom Monarchs: Looking Glass Sighs_
 
 _Re:Collection Brilliant Vestige_
 
+_Radiant Origins_
+
+_Radiant Origins EVP_
+
+_Re:Collection Aurelian Regent_
+
 \
 Any cards with the same name as a card printing for the listed sets are legal for tournament play; the exact printing does not have to match the above products. Additionally, [Proxia’s Vault](https://index.gatcg.com/cards?prefix=PRXY) provides cards legal for proxied tournament use.
+
+Note: Pantheon-specific cards found in any of the above products are not legal for Team Standard Constructed

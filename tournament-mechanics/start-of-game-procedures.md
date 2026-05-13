@@ -13,6 +13,7 @@ Once players are seated and ready to begin a game of a match, players proceed th
 3. Players present their Main Decks to their opponents to shuffle/cut.
 4. The shuffled Main Decks are placed in the appropriate zones in the play area.
 5. A selected player becomes the first turn player and their opponent is the second turn player. If it is the first game of a play-off round, the player with the highest standing chooses which player becomes the first turn player. If it is the first game of a round, the selected player is randomly determined (coin toss, die roll, etc.). Player may only proceed to the next step if the round timer has been started. If players begin playing their first game before this point, it is considered a false start.
+   1. If one or more players received a game loss penalty before starting the match, the method of selecting the first turn player is still achieved by random selection.
 6. Each player places a Level 0 Spirit Champion in play at the same time and, in turn order, resolves the On Enter ability to decide their respective starting hand. The first turn player skips the Wake Up, Materialize, Recollection, and Draw phases and begins their Main Phase. The first player in a two-player match can't attack during their first turn.
 7. The second turn player skips their Wake Up, Materialize, and Recollection phases and begins their Draw Phase. They may attack during this turn.
 

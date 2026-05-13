@@ -17,6 +17,15 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
+May 12, 2026
+
+* "New" changelog date formatting to be consistent with rulebook changelog
+* Fixed missing product entries for format legality
+* Addendum for team events where the higher seed team "drafts" the player turn order.
+* Small note to affirm the first turn player selection in the cases when a game loss was issued before the match began.
+
+
+
 3/31/26
 
 * Added policy guidelines on [hygiene & health](tournament-mechanics/hygiene-and-health-standards.md) standards for attendees of Grand Archive events. These guidelines apply to staff, players, and other attendees equally. Please review and ensure that you are complying with these guidelines before arriving at an event.
