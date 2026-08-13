@@ -17,6 +17,13 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
+August 13th, 2026
+
+* Updated Limited Format rules to support 4-pack drafts.
+* Updated rules to accommodate procedural time extensions (deck checks).
+
+
+
 May 12, 2026
 
 * "New" changelog date formatting to be consistent with rulebook changelog
