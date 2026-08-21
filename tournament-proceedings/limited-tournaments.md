@@ -24,7 +24,7 @@ _Dawn of Ashes Alter Edition - 6 packs per player, no sealed draft pack_
 
 _Mortal Ambition - 3 packs per player, 1 sealed draft pack._
 
-_.asmophel/paradise - 4 packs per player, 1 sealed draft pack._
+_.asphodel/paradise - 4 packs per player, 1 sealed draft pack._
 
 
 
