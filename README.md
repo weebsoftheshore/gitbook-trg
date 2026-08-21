@@ -15,7 +15,13 @@ These links can be found at the bottom of each page while browsing this document
 \
 If you would like to see the exact changes to any version of the rulebook, please check the GitBook commit history [here](https://github.com/weebsoftheshore/gitbook-trg/commits/main/).
 
+\
+August 21st, 2026
 
+* Updated TRG to support .asphodel/paradise
+* Ban list updated
+
+<br>
 
 August 13th, 2026
 

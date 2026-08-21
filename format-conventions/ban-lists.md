@@ -9,15 +9,24 @@ This page will contain all lists of cards banned across the various formats. Kee
 Standard Constructed (All variants, including Online and team Standard. Limited formats are excluded)
 
 * Baby Gray Slime
+* Carpsong Coda
 * Corhazi Outlook
 * Crystal of Empowerment
+* Dissonant Fractal
 * Erupting Rhapsody
 * Icebound Slam
-* Sword of Avarice
-* Reckless Conversion
 * Lost in Thought
-* Dissonant Fractal
+* Sword of Avarice
+* Ranger Strides
+* Reckless Conversion
 * Rile the Abyss
+* Unmake Duality<br>
+
+#### Standard Season Bans
+
+* **PRD Season**: Baleful Oblation, Fabled Azurite Fatestone/Seiryuu, and Spirit Blade: Ascension
+
+
 
 In addition, Standard Constructed excludes cards specific to draft formats and Pantheon-exclusive cards. Pantheon-exclusive cards will have a PANTHEON tag at the bottom right of the card border.
 

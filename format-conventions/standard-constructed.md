@@ -61,6 +61,10 @@ _Radiant Origins EVP_
 
 _Re:Collection Aurelian Regent_
 
+_.asphodel/paradise_
+
+_.asphodel/paradise Starter Decks_
+
 
 
 \
