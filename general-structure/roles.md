@@ -8,23 +8,17 @@ Also commonly abbreviated as a TO, tournament organizers are responsible for org
 \
 Tournament Organizers should apply for an [Omnidex account](https://omni.gatcg.com/) that allows them to create tournaments and manage tournaments through the Omnidex software.
 
-
-
 #### Judge
 
-Judges who officiate tournaments typically have sufficient knowledge and familiarity with the rules of Grand Archive and of the rules and guidelines established in this document. Judges typically resolve tournament disputes, are allowed to interpret rules, answer rules questions, and make other decisions regarding an event. If there are multiple levels of judges at an event, appeals for decisions must go through the highest-tier judge or appointed head judge of the event. Decisions made in the context of appeals in this manner are considered final.&#x20;
+Judges who officiate tournaments typically have sufficient knowledge and familiarity with the rules of Grand Archive and of the rules and guidelines established in this document. Judges typically resolve tournament disputes, are allowed to interpret rules, answer rules questions, and make other decisions regarding an event. If there are multiple levels of judges at an event, appeals for decisions must go through the highest-tier judge or appointed head judge of the event. Decisions made in the context of appeals in this manner are considered final.
 
 Judges must take all steps necessary to deal with game rules, regulations, or policy violations. Judges serve as a resource available to all players and spectators as needed to answer questions, investigate and resolve illegal plays, or assist in reasonable manners as tournament officials.
 
 Valid questions that may be answered can be regarding general rules, card interactions, and providing information on cards using the Index. Players may request that questions be answered away from the table but may not ask specific individuals to answer their questions. Judges can’t interfere with a game unless a rules infraction has occurred or if it is done in anticipation of an imminent infraction. Judges may not take any actions for a player unless this is done to provide reasonable assistance (i.e. assisting with completing an intended action if the player is having difficulty doing it). Judges cannot answer hypothetical questions in a game of Grand Archive; players should not ask Judges hypothetical questions during their games.
 
-
-
 #### Event Recorder
 
-The event recorder is designated as the person that can enter round scores for players, generate tournament pairings, generate and list standings, solve any problems related to the score reporting by working with the TO or judges, as needed, and ensure that player information matches the tournament registry. Event recorders may answer player questions about tournament scores, standing, or other relevant information. Players may appeal the incorrect entry of their information or round scores to a leading judge for remediation.
-
-
+The Event Recorder is designated as the person who can enter round scores for players, generate tournament pairings, generate and list standings, solve any problems related to the score reporting by working with the TO or judges, as needed, and ensure that player information matches the tournament registry. Event recorders may answer player questions about tournament scores, standing, or other relevant information. Players may appeal the incorrect entry of their information or round scores to a leading judge for remediation.
 
 #### Players
 

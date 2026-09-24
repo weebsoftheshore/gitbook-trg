@@ -41,7 +41,7 @@
   * [Changing Decisions](player-communication/changing-decisions.md)
   * [Concession and Intentional Draws](player-communication/concession-and-intentional-draws.md)
   * [Prize Splits](player-communication/prize-splits.md)
-  * [Judge Calls](player-communication/judge-calls.md)
+  * [Judge Call Ettiquette](player-communication/judge-call-ettiquette.md)
 * [Tournament Proceedings](tournament-proceedings/README.md)
   * [Sanctioning Events](tournament-proceedings/sanctioning-events.md)
   * [Swiss Scoring and Tie-breaks](tournament-proceedings/swiss-scoring-and-tie-breaks.md)

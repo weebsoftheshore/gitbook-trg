@@ -66,6 +66,10 @@ _Re:Collection Aurelian Regent_
 
 _Pantheon Pack 1_
 
+_.asphodel/paradise_
+
+_.asphodel/paradise Starter Decks_
+
 
 
 \

@@ -1,6 +1,6 @@
-# Judge Calls
+# Judge Call Ettiquette
 
-While broad language surrounding judge calls may be found [here](../general-structure/judge-calls-and-appeals.md), this section will detail certain etiquette and expectations regarding players and judge calls or suspected violations for which a judge _should_ be called.
+While broad language surrounding judge calls may be found [here](../general-structure/judge-calls-and-appeals.md), this section will detail certain etiquette and expectations regarding players in a judge call or suspected violations for which a judge _should_ be called. This section will focus on the player side of the expected ettiquette and recommendations to follow; the [Judge Handbook](https://jh.gatcg.com/) covers the decorum expected of judges during calls in greater detail.
 
 When a player suspects a violation has occurred, they should always make a judge call, even if nothing is corrected and no violation has occurred. Calls made in this capacity and in good faith help to ensure tournament integrity. In making these judge calls, below are some steps and criteria to follow to help communicate the suspected violation. Following these will help properly convey a potential violation and assist with any investigations or remedies to be applied.
 

@@ -18,3 +18,5 @@ The following pages will cover these topics:
 * [Use of Dice or Counters](use-of-dice-or-counters/)
 * [Sleeves and Plastic Protectors](sleeves-and-plastic-protectors.md)
 * [Player Equipment](player-equipment.md)
+* [Hygiene and Health Standards](hygiene-and-health-standards.md)
+* [Judge Calls](../player-communication/judge-call-ettiquette.md)
