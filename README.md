@@ -17,7 +17,7 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
-September 21st, 2026
+September 23rd, 2026
 
 * Properly updated Pantheon/Team Standard legality list for PRD Season
 * Updated commentary on stream judging guidelines and recommendations
