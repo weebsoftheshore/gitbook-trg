@@ -61,7 +61,9 @@ _Distorted Reflections_
 
 _Distorted Reflection Starter Decks_
 
-_Promotional 2022, 2023, 2024, 2025_
+_Distorted Reflections: Alter Edition_
+
+_Promotional 2022, 2023, 2024, 2025, 2026_
 
 _Phantom Monarchs_
 

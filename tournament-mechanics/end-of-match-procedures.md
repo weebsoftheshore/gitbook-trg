@@ -6,12 +6,16 @@ At the end of a match, players must agree on the match result, record and/or rep
 
 #### Timed Rounds for Non-Single Elimination:
 
-If time in the round has expired and the winner of the current game is not yet determined, the current turn player will finish their turn, then players have up to 5 minutes to finish the game or play 3 additional turns, whichever comes first. The current turn player will be considered as starting on turn 0, after which up to 3 additional turns are played[.](https://www.youtube.com/watch?v=xOrgLj9lOwk) If time is called as the turn player is announcing that they are ending their turn, the next player’s turn will start the turn counter. If, after 5 minutes or the turn limit, there is no winner, the game is considered a draw. The player with the most wins thus far in the match is considered the match winner. If neither player has won more games, the match is a draw.
+If time in the round has expired and the winner of the current game is not yet determined, the current turn player will finish their turn, then players have up to 5 minutes to finish the game or play 3 additional turns, whichever comes first. The current turn player will be considered as starting on turn 0, after which up to 3 additional turns are played[.](https://www.youtube.com/watch?v=xOrgLj9lOwk) If time is called as the turn player is announcing that they are ending their turn, the next player’s turn will start the turn counter. If, after 5 minutes or the turn limit, there is no winner, the game is considered a draw. This is considered "Overtime." The player with the most wins thus far in the match is considered the match winner. If neither player has won more games, the match is a draw.
 
 Once round time has been called, no new games in a match can begin and match results should be reported. Judges may put in place a time extension not to exceed 5 minutes. If a time extension is applied in this manner, round-ending procedures will not begin until the time extension is over.
 
+{% hint style="success" %}
+If a player is taking extra turns through a game effect, this extra turn will utilize one of the 3 total additional turns that may be given during the Overtime portion of the match.
+{% endhint %}
+
 {% hint style="info" %}
-Awarded time extensions are completed before the three additional turns or 5 additional minutes given for timed rounds can be followed through.
+Awarded time extensions should be given first, before the three additional turns or 5 additional minutes given for Overtime.
 {% endhint %}
 
 

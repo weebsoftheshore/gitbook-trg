@@ -17,6 +17,14 @@ If you would like to see the exact changes to any version of the rulebook, pleas
 
 
 
+October 16th, 2026
+
+* DTR Alter Release
+  * Added to product legality
+  * Added note about extra turns in Overtime
+
+
+
 September 23rd, 2026
 
 * Properly updated Pantheon/Team Standard legality list for PRD Season
